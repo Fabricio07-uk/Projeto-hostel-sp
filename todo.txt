@@ -1,0 +1,26 @@
+Usar bootstrap como biblioteca de User interface
+
+Se tiver problema de saude precisa de um campo de texto para descrever detalhamentos
+
+Data de entrada e saida usar o plugin tempus dominus
+
+Documento
+    Se brasileiro precisa ser 2 arquivos (frente e verso)
+    Se estrangeiro apenas a foto dianteira do passaporte
+    Campo de texto pra ambos os casos informando o numero do documento
+
+Assinatura usar o plugin jquery sketchpad e colocar o valor do svg para um input do tipo hidden
+
+Data de nascimento usar o modelo do site https://uxmovement.com/forms/bad-practices-on-birthdate-form-fields/   
+
+Pendente Telefone
+
+Email
+
+Termo de cessao de uso imagem e voz     
+
+Checkbox de li e aceito os termos de uso com scrollbox de texto
+
+Cabeçalho titulo deve ser Ficha Nacional de Registro de Hóspedes
+
+Dados da empresa (armazenados em variavel pois tem mais de uma filial)
