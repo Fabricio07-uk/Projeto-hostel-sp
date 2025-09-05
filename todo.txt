@@ -24,3 +24,8 @@ Checkbox de li e aceito os termos de uso com scrollbox de texto
 Cabeçalho titulo deve ser Ficha Nacional de Registro de Hóspedes
 
 Dados da empresa (armazenados em variavel pois tem mais de uma filial)
+
+Upload de imagem com barra de progresso endpoint https://hosteldeluz.2fsoft.com/api/upload (método post sem autenticação)
+
+formulario final pra https://hosteldeluz.2fsoft.com/storecustomer
+
